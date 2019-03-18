@@ -83,7 +83,7 @@ a#pdf:hover { background: #222; }
 
 .section-title {
     color: #6a8aa7;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .course-certification {
